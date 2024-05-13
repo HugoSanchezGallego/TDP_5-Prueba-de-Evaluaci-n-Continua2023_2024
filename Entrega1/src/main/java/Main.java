@@ -1,5 +1,3 @@
-package Entrega1;
-
 public class Main {
     public static void main(String[] args) {
         //Entrega 1

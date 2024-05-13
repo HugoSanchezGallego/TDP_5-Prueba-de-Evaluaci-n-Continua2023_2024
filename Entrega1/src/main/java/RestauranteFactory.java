@@ -1,5 +1,3 @@
-package Entrega1;
-
 public class RestauranteFactory {
     public Restaurante crearRestaurante(String tipo) {
         switch (tipo) {

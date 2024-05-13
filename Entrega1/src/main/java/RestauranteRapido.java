@@ -1,11 +1,10 @@
-package Entrega1;
-
-public class RestauranteTematico implements Restaurante {
+// Clases de Restaurantes
+public class RestauranteRapido implements Restaurante {
     private EstrategiaServicio estrategiaServicio;
 
     @Override
     public void describir() {
-        System.out.println("Restaurante temático");
+        System.out.println("Restaurante de servicio rápido");
     }
 
     @Override

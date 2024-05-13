@@ -1,5 +1,3 @@
-package Entrega1;
-
 public class RestauranteDeLujo implements Restaurante {
     private EstrategiaServicio estrategiaServicio;
 
