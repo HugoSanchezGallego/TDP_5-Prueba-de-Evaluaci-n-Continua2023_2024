@@ -7,8 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Entrega2" />
-        <module name="Entrega1" />
+        <module name="Entrega3" />
+        <module name="Entrega4" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Entrega1" target="22" />
+    </bytecodeTargetLevel>
   </component>
 </project>
